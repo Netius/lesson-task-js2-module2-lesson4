@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 30px;
+    background: #ebebeb;
+    font-family: sans-serif;
+}
+
+.developer-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.developer {
+    width: 250px;
+    height: 200px;
+    position: relative;
+    margin: 1rem;
+    background-size: cover;
+}
+
+.developer h5 {
+    background: rgba(0, 0, 0, 0.4);
+    color: white;
+    padding: 0.5rem;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    margin: 0;
+}
