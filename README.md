@@ -8,4 +8,4 @@ Make an API call using an IIFE to this URL:
 https://api.rawg.io/api/developers
 ```
 
-Loop through the results and use a class to create a div for each item that displays each devloper name and background image.
+Loop through the results and use a class to create a div for each item that displays each developer name and background image.
